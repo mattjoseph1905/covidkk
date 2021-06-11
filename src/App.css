@@ -1,6 +1,18 @@
 .App {
   text-align: center;
+  
 }
+.dabutton:focus {
+  color:#8bd9c7
+}
+.lanbutton:focus{
+ background-color:#555555
+}
+.lanbutton{
+  background-color:#3caea3
+ }
+ 
+
 
 .App-logo {
   height: 40vmin;
